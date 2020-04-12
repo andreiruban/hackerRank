@@ -1,4 +1,4 @@
-package io.ruban.practice.algorithms.warmup.easy
+package io.ruban.practice.interview.warmup
 
 // Complete the countingValleys function below.
 fun countingValleys(n: Int, s: String): Int {

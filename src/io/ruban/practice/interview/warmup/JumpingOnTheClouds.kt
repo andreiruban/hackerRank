@@ -1,4 +1,4 @@
-package io.ruban.practice.algorithms.warmup.easy
+package io.ruban.practice.interview.warmup
 
 fun jumpingOnClouds(c: Array<Int>): Int {
     var steps: Int = 0

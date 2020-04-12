@@ -1,4 +1,4 @@
-package io.ruban.practice.algorithms.warmup.easy
+package io.ruban.practice.interview.warmup
 
 // Complete the repeatedString function below.
 fun repeatedString(s: String, n: Long): Long {
