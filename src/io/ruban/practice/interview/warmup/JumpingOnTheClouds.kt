@@ -16,7 +16,7 @@ fun jumpingOnClouds(c: Array<Int>): Int {
     return steps
 }
 
-fun main(args: Array<String>) {
+fun main() {
     val arr1 = intArrayOf(0, 0, 0, 1, 0, 0).toTypedArray()
     val arr2 = intArrayOf(0, 0, 1, 0, 0, 1, 0).toTypedArray()
 
